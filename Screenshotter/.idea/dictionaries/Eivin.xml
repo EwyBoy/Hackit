@@ -2,15 +2,22 @@
   <dictionary name="Eivin">
     <words>
       <w>adminpassword</w>
+      <w>alpacca</w>
       <w>blackhat</w>
+      <w>camshot</w>
       <w>eivin</w>
       <w>ewy</w>
       <w>fakepassword</w>
+      <w>fbpmgrt</w>
+      <w>fpbm</w>
       <w>gmail</w>
       <w>hackit</w>
+      <w>hemmelig</w>
       <w>psapi</w>
+      <w>retval</w>
       <w>smtp</w>
       <w>thisisafakepassword</w>
+      <w>webcam</w>
     </words>
   </dictionary>
 </component>
